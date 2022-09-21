@@ -87,3 +87,18 @@ h1{
           font-size: 16px;
      }
 }
+@media(max-width:450px){
+     td{
+          padding: 10px;
+          font-size: 12px;
+     }
+     h1{
+          font-size: 20px;
+     }
+     
+          th{
+               padding: 9px 1px;   
+               font-size: 15px;
+          }
+     
+}
